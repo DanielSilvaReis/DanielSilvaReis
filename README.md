@@ -1,4 +1,4 @@
-<head 2>Hey 👋</head>
+<h2>Hey 👋</h2>
 <br>
 My name is Daniel Silva, I'm from Brazil 💚 I'm studying Computer Scientist. 👨🏻‍💻
 <br>
